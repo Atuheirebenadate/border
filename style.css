@@ -1,10 +1,17 @@
-.model{
-    background-color: white;
-    padding: 20px 20px 20px 20px;
-    text-align: center;
-    outline: green solid 20px;
-    border: 30px solid crimson;
-    margin: 30px 30px 30px 30px; 
+.modelthree{
+    border: solid;
+    border-color: rgb(20, 20, 20);
+    padding: 5px;
+}
+.modeltwo{
+    border: solid;
+    border-color: chartreuse;
+    padding: 90px 20px 5px 20px;
+}
+.modelone{
+    border: solid;
+    border-color: cornflowerblue;
+    padding:20px 5px 20px 90px ;
 }
 
 
