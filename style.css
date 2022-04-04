@@ -1,17 +1,25 @@
 .modelthree{
-    border: solid;
+    border: solid 5px;
     border-color: rgb(20, 20, 20);
-    padding: 5px;
+    padding-top: 30px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-left: 20px;
 }
 .modeltwo{
-    border: solid;
+    border: solid 3px;
     border-color: chartreuse;
-    padding: 90px 20px 5px 20px;
+    padding: 50px 20px 30px 40px;
 }
 .modelone{
-    border: solid;
+    border: solid 3px;
     border-color: cornflowerblue;
-    padding:20px 5px 20px 90px ;
+    padding:10px 5px 10px 30px ;
+    margin-bottom: 900px;
+    margin-top: 100px;
+    margin-left: 6px;
+    margin-right: 7px;
+    text-align: center;
 }
 
 
